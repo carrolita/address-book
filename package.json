@@ -1,0 +1,23 @@
+{
+  "name": "assignment-address-book",
+  "version": "1.0.0",
+  "description": "Today's assignment is to build an small API – the server side of a phone book. The API could later be used to build webpages like Eniro or Hitta.se.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrolita/assignment-address-book.git"
+  },
+  "author": "Caroline Granlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrolita/assignment-address-book/issues"
+  },
+  "homepage": "https://github.com/carrolita/assignment-address-book#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
